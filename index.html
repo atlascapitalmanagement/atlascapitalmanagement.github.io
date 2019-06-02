@@ -1,4 +1,36 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/header.jpg
+  actions:
+    - label: "Learn more"
+      url: "/about"
+excerpt: >
+  Our mission is to build the most trustworthy investment platform whereby all investors can grow their wealth steadily for the long term.<br />
+feature_row:
+  - image_path: /assets/images/home1.jpg
+    alt: "property fund"
+    title: "Property Credit Fund"
+    excerpt: ""
+    url: "/investing/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/home2.jpg
+    alt: "faq"
+    title: "FAQ"
+    excerpt: ""
+    url: "/faq/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/home3.jpg
+    alt: "chinese info"
+    title: "中文资讯"
+    excerpt: ""
+    url: "/chinese/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
+
+{% include feature_row %}
