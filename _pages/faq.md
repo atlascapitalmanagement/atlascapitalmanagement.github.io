@@ -9,77 +9,62 @@ header:
 
 ---
 
-## Do you hold an Australian Financial Services License (AFSL)?
+The Atlas Capital Property Credit Income Fund (Fund) is an unregistered managed investment scheme under the Corporations Act 2001 (Cth).  The disclosure documents of the Fund, consisting of the Information Memorandum (IM) and the Supplementary Information Memorandums for specific Classes of the Fund (SIMs), are prepared jointly by Atlas Capital, the Investment Manager of the Fund, the lawyer engaged by Atlas Capital and Specialised Investment and Lending Corporation Pty Ltd ACN 149 520 918 AFSL No. 407100 (SILC), the Trustee of the Fund.  
+The purpose of this "Investor Frequently Asked Questions and Answers" brochure is to provide general information regarding the Fund to prospect investors with limited knowledge on the regulatory and management framework in which the Fund operates. Investors must read IM and the SIM for the Class they invest in in full before making any investment. with specific reference to the Atlas Capital Property Credit Income Fund. 
 
-Yes. Managed investment schemes can be either registered or unregistered. In both cases, the operator must hold an Australian Financial Services (AFS) licence authorising it to run the scheme. Atlas Capital Management is the corporate authorised representative of AFSL 407100 which was issued by the ASIC (Australian Securities and Investments Commission). Of course, holding an AFSL is only the basic requirement of running an investment business/dealing in financial product, the integrity, investment experience and operational expertise of the investment manager is a more important measure in ensuring meeting investors’ objectives, over both longer and short term.
+## What is the underlying investment and key features of the Fund?
+The Fund aims to provide risk-adjusted and attractive income returns to investors via investing in loans made to special purpose vehicles (SPVs) which are related entities or associates of Atlas Capital or other borrowers carefully selected by Atlas Capital to fund property projects, such as land development, commercial and residential property developments, in Australia. The Fund will have multiple Classes. Each Class will either be in relation to a specific loan or a pool of loans.  
+Each Class will have a target fixed return. Please note that the target fixed return is not guaranteed. The Fund may not be successful in meeting this objective.
 
-## What are the major features of the Atlas Capital Property Credit Income Fund? Can investors see the size of the total fund and the specific investment projects? If the Fund is not fully invested, will the fixed income return on investment is affected?
+## What is the structure of the Fund?
+The Fund is an unregistered multi-class unit trust governed by Australian law. The structure of the Fund is demonstrated in the diagram set out below:  
+![](/assets/images/structure_faq.png)
 
-The investment objective of the Atlas Fund is to provide stable and attractive income returns to investors in a highly secured manner. The investment offering enables investors to participate in a secured fashion in investment opportunities in Australian real estate projects, such as land development, large-scale commercial, and residential development.
+## Is an Australian Financial Services Licence (AFSL) required to manage the Fund?
+Yes.  An AFSL issued by the Australian Securities and Investments Commission (ASIC) is required to manage a managed investment scheme such as the Fund. The AFSL held by SILC allows it to act as Trustee for the Fund. Atlas Capital is the corporate authorised representative of SILC, which means that Atlas Capital may manage the Fund in accordance with the authorisations under SILC’s AFSL.
 
-The Investment Funds offered by Atlas Capital Management is mortgage-backed debt investment. The fund provides financing to land and real estate developers by means of loans. The investment risk is controlled by the Atlas Investment Team's in-depth understanding of the borrowing project as well as physically secured against the assets (i.e. first ranking mortgages) for which the loan is lend to, furthermore, extra security is required by way of the borrowers’ personal guarantee and Corporate guarantees, i.e. General Security Agreement (GSA).
+## What functions does SILC perform? How are the investors' funds monitored and protected from fraudulent and unauthorised transactions? 
+SILC as Trustee for the Fund is a Melbourne-based professional third-party trustee services provider. SILC will hold and administer the assets of the Fund for the benefit of the investors. . It will also be responsible for the enforcement of Loans if the borrowers are in default.  
+SILC’s responsibilities as the Fund’s Trustee include but not limited to reviewing and approval of the Fund’s lending programs and ensures that investment selection and lending process is adhered as prescribed in the Information Memorandum and enforcing the Loans against the borrowers if they are in default.  
+Each Class of the Fund may have multiple investors, who have exposure to the underlying Loans and will be segregated to ensure that losses and gains from one Class is not shared with other Classes.  The Trustee will be working closely with the Investment Manager to manage the Fund.
 
-Atlas’ Credit Income Fund is typically structured as SPV (Special Purpose Vehicle) which means each loan is lent to one specific property development project.
+## What return can investor expect from the Atlas Property Credit Income Fund?
+Each Class of the Fund has a different target fixed return which are net of fees and expenses but before tax. Please note that this is not a promise or a forecast of future returns. Neither the Trustee nor the Investment Manager guarantees any returns.   
 
-The advantage of this fund structure is that it allows effective risk control, and the underlying asset for which the Fund owns the collateral is very clear and transparent. This makes o it is easier to assess the security level of the loan.
+Please refer to the relevant SIM for the target fixed return of the Class that you may be interested in investing in.
 
-In contrast, pooled investment funds are less transparent, because there are many specific assets in the pool, and it is difficult to assess the overall investment risk. Of course, the theoretical benefit of pool funds is that risk can be diversified, and liquidity is generally higher, investors can subscribe or withdraw more frequently.
+## What are the risks of the Atlas Capital Property Credit Income Fund?
+The major risk of investing in the Fund are as follows: 
+- investment risk - distributions may or may not be paid and capital may or may not be returned;
+- default and credit risk - a borrower under a Loan may not be able to pay principal and interest payments due under the Loan;
+- priority risk - the Fund may invest in Loans which are subordinated to senior lenders.  The Fund will only be capable of distributing capital and income payments in respect of a Loan once the senior lenders have been repaid; and
+- security enforcement risks - the Loans may be secured by a first ranking or second ranking registered mortgage over real estate and other forms of security.  There is a risk that the sale of the security would not be sufficient to cover capital and income repayment obligations to investors or that the sale of the security would take a significant amount of time. 
+Atlas Capital seeks to use its best endeavours to mitigate the repayment default risk with respect to the Loans provided by the Fund by：
+- assessing creditworthiness of the borrowers and the terms of the loans in accordance with its lending strategy which includes a loan-to-value (LVR) requirement and the in-depth understanding of the development projects to be carried out by the borrowers; 
+- ensuring that first or second ranking mortgages are registered over the development 
+- ensuring that the general security agreement granted over all assets and undertakings of the borrower is provided. 
+The risk level varies depending on the type and stage of the development project. However, a sound development project of which the developer has in-depth property development experiences, is well capitalised, has strong cash flow disciplines, has accurate asset value in light of the prevailing market condition with a potential of growth or development would usually pass our tests.   
+Please refer to the IM for further information on the risks associated with investing in the Fund.
 
-Given the above-mentioned, each SPV of the Atlas Fund has different scales, from a few million to over 50 million, however the way each SPV operates is roughly the same. The benefit of such fund structure means that there is certainty in terms of the income return because there will be no idle investment. Whilst in a pool fund, capital may not be fully invested which could lead to uncertainty in its income return.
+## How do I invest in the Fund?
+An investor may be required to make investment by way of Commitment. The Commitment is an investor’s binding agreement with the Trustee to subscribe for Units to a specified dollar amount and against which capital calls made by the Trustee. On application, 5% of the total Commitment amount will be called as a deposit. The remainder of the Commitment will be called on or before the closing date for the issue of a Class of Units which is specified in the relevant SIM. If further calls on Commitments are not paid, the deposit and Units issued on the initial call will be forfeited.  
+Once an applicant has paid the deposit, they will be issued 5% of the total Units they subscribe for at the current applicable issue price in accordance with the terms set out in the relevant SIM. If further Commitments are not paid, the initial call (deposit) will be forfeited.  
+The minimum Commitment amount for each class of Units is $500,000.  The Trustee has absolute discretion to accept applications for lesser amounts.
 
-## What function does the Trustee company perform? How the investors' funds are monitored and protected from fraud and un-authorised transactions?
+## How long am I required to stay invested in the Fund?
+The Fund invests in Loans to fund property development projects. The term of a Loan is generally 1-2 years. An investor’s ability to withdraw from the Fund will depend upon the Class of Units held by the investor and will be outlined in the relevant SIM. The Minimum Investment Period or Investment Term of a Class will be set out in the relevant SIM. Generally, Investors will not be able to withdraw their Units in a Class prior to the end of the Minimum Investment Period or the Investment Term for the specific Class that they invest in.  An early redemption fee will apply to an early withdrawal/redemption that is approved.
 
-A trustee is a person or firm that holds and administers property or assets for the benefit of a third party.
+## Will fees charged to investors of the Fund?
+Like most funds in similar nature to the Atlas Capital Property Credit Income Fund, fees will be charged by SILC as Trustee and Atlas Capita as the Investment Manager of the Fund. Please refer to the IM for further details with respect to the fees. Please note that all returns have been quoted net of fees and ordinary expenses of the Fund.
 
-In terms of the Atlas Funds, the professional third-party trustee we work with is there to protect the interests of the beneficiaries of the Fund, i.e. the investors. The trustee conducts all transactions in the trust in his own name and must sign all documents on behalf of the trust. The primary responsibility of the trustee is to comply with the terms of the trust deed and act in the best interests of the beneficiary.
+## Who can invest in the Fund? 
+The Fund is designed for:
+- persons (including entity) that invest more than $500,000 in the Fund; 
+- wholesale investors, being persons or the persons or enties : 
+- that have obtained a qualified accountant’s certificate within the preceding six months stating that they:
+  - have net assets of at least $2.5 million, or
+  - have a gross income for each of the last two financial years of at least $250,000; or 
+- professional investors which include AFSL holders, superannuation funds persons who have or control more than $10 million of gross assets and listed entities or a related body corporate of listed entities. 
 
-The trustee company for the Atlas Capital Property Credit Income Fund is the Melbourne based SILC GROUP which provide oversight to over 50 fund managers. SILC’s responsibilities as the Fund’s Trustee include reviewing and approval of the Fund’s lending programs and ensures that investment selection and lending process is adhered as prescribed in the Information Memorandum, such as whether the total borrowing is lower than the prescribed maximum LVR, whether the borrowing company provides the personal and corporate liability guarantee, and the credibility of the valuation company, etc. The operation of the fund is compliance reviewed regularly to ensure that it operates in accordance with the information memorandum.
-
-The SILC Group also acts as the administrator for the Fund which is responsible for registering unit holder interest and processing all the transactions for the Fund.
-
-As mentioned, the Atlas Funds are structured as SPVs (SPECIAL PURPOSE VEHICLE). The loan collaterals are only registered under the name of the Fund. If the property development company goes bankrupt, the asset for which the Fund hold as collateral will be independently cleared, and the principal will be repaid to the investor after the mortgaged property auction.
-
-When the fund is established, the investment management company is required to meet the qualifications and have enough working capital. The investment management company are also required to hold professional indemnity insurance.
-
-Therefore, under the regulatory framework described above, especially under the arrangement where there is separation of investment, trustee and administration functions, the possibility of fraud and unauthorised transactions is almost non-existent.
-
-## What return can investor expect from the Atlas Capital Property Credit Income Fund?
-
-For the expected return, investors should pay attention to if it is annualized or for the whole term of the investment, and whether it is gross return i.e. before fees or net income i.e. after fees.
-
-In the current market condition, the Atlas Fund provides an annualised net return of 8.0%.
-
-## What is the risk of the Atlas Property Credit Income Fund? Is this investment secure? Is there any risk in my principal? How do you control the risks in the development loan? What if the developer does not pay interest and principal?
-
-The major risk of any fixed-income Fund is the risk of capital loss, i.e. the borrower failed to return the principal to investors.
-
-At Atlas, we have a rigorous process to assess and minimize the risk. As a prudent investor, Atlas Capital Management take extra measures to understand the risk involved with the borrowing entity and the loan terms are legally constructed to maximise investor protection.
-
-The risk level varies depending on the type and stage of the development project. However, a sound investment project is naturally able to pass all our tests, that is, the developer has in-depth property development experiences, well capitalised and have strong cash flow disciplines; the asset value is accurate with regards to the prevailing market condition, and the value of the asset is expected to be further increased; the interest on the loan is preferably prepaid; and the project can be successfully completed.
-
-In terms of the Fund’s collaterals, without exception, the Atlas Fund requires first ranking mortgage to be registered under the Fund’s name in order to making the loan investment. LVR (Loan to Value ratio = loan amount / market value of mortgage assets) is the basic indicator for analysing the security associated with mortgage-backed debt investment. The lower the LVR, the higher the security of borrower's capital. In our case, our maximum LVR is 70%.
-
-When a property project is completed and delivered, the project begins to pay off debts and pay dividends. In terms of fulfilling its debt obligations, the following order applies: first-ranking mortgage holder > secondary mortgage holder > preferred stock > common stock, i.e. Ordinary Shares. Debt investors of first ranking collateral are the most secure investors, precisely because such investors have the first right to compensation for the land and projects.
-
-There are three types of mortgage guarantees required by Atlas. In the current market situation, the Atlas Fund only lend to borrowers which can provide first ranking collateral. In addition, Atlas also requires property developers to provide individual as well as corporate liability guarantees. In the unlikely event of the liquidation value of the project asset is not enough to repay the investor's principal, the personal and company assets of the responsible person of the borrowing company will also be held responsible for any outstanding debt payments. 
-
-## How long does my money need to be in the Fund? If I want to use the money, can I withdraw from the Fund?
-
-Investors should have a reasonable understanding of risks and return. For real estate debt investments, while there is a robust mechanism to protect investors, by way of a multiple level of collaterals. On the other hand, the relatively higher return delivered to investors is partly due to the sacrifice of liquidity. Bank deposit, while highly liquid, lacks attractive interest rate.
-
-The Atlas Funds are generally loan investments for single property development projects. The loan term is generally within 1-2 years. Investing in such funds will typically have minimum capital lock-up period, that is, investors cannot transfer funds within a certain period of time. After the lock-up period, investors will have the opportunity to redeem their principal based on the liquidity of the Fund.
-
-## Will the Fund charge management fees?
-
-Most Fund charges management fee. However, for investors, what matters is the net income return being delivered which the management fee has already been accounted for.
-
-## Is there a minimum amount required to be an investor in the Fund? 
-
-The Atlas Funds are designed for qualified wholesale investors. Section 761G (7) of the Corporations Act defines wholesale investor as:
-  - A person or entity that has obtained an accountant’s certificate within the preceding six months stating that the client:
-    - (a) has net assets of at least $2.5 million, or
-    - (b)  has a gross income for each of the last two financial years of at least $250,000;
-  - A person or entity that is controlled by a person or entity that meets the requirements of (a) or (b) above;
-  - A person or entity who invests at least $500,000 into the Financial Product.
-An SMSF can also be classified as wholesale if the trustee of an existing superannuation fund meets the wholesale investor general test mentioned above.
-
+***Disclaimer***  
+##### *This brochure is prepared by Atlas Capital Management Pty Limited ACN  633 175 523, the Investment Manager of the Atlas Capital Property Credit Income Fund (Fund) and the authorised representative of Corporate Authorized Representative of Specialised Investment and Lending Corporation Pty Ltd ACN 87 149 520 918, AFSL No 407100 (SILC) as Trustee for the Fund, for information purpose only and does not constitute an offer, solicitation or recommendation to invest in the Fund. The information contained herein is not intended to constitute investment advice, nor should it be construed in any way as tax, accounting or legal advice.  Before making the decision of investing in the Fund, you should read the Fund's disclosure documents, being the Information Memorandum (IM) and the Supplementary Information Memorandum of the Class you are interested in investing in (SIM), in full and carefully evaluate whether investing in the Fund is appropriate for you in light of your experience, objectives, financial situations and other relevant circumstances. In the event of any inconsistency between this brochure and the IM and/or any SIM, the IM and SIM shall prevail.  SILC has consented to the inclusion and publication of general commentary, fund updates and references to itself.* 
