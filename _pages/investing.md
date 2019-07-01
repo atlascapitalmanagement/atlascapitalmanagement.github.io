@@ -25,7 +25,7 @@ header:
 
 ## How Does It Work
 
-![full](/assets/images/structure.png)
+![full](/assets/images/structure_en.png)
 
 ## Key Risks
 
