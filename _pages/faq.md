@@ -35,13 +35,11 @@ Please refer to the relevant SIM for the target fixed return of the Class that y
 
 ## What are the risks of the Atlas Capital Property Credit Income Fund?
 The major risk of investing in the Fund are as follows: 
-- investment risk - distributions may or may not be paid and capital may or may not be returned;
 - default and credit risk - a borrower under a Loan may not be able to pay principal and interest payments due under the Loan;
-- priority risk - the Fund may invest in Loans which are subordinated to senior lenders.  The Fund will only be capable of distributing capital and income payments in respect of a Loan once the senior lenders have been repaid; and
-- security enforcement risks - the Loans may be secured by a first ranking or second ranking registered mortgage over real estate and other forms of security.  There is a risk that the sale of the security would not be sufficient to cover capital and income repayment obligations to investors or that the sale of the security would take a significant amount of time. 
+- security enforcement risks - even the Loans may be secured by a first ranking registered mortgage over real estate and other forms of security, there is still a risk that the sale of the security would not be sufficient to cover capital and income repayment obligations to investors or that the sale of the security would take a significant amount of time. 
 Atlas Capital seeks to use its best endeavours to mitigate the repayment default risk with respect to the Loans provided by the Fund by：
 - assessing creditworthiness of the borrowers and the terms of the loans in accordance with its lending strategy which includes a loan-to-value (LVR) requirement and the in-depth understanding of the development projects to be carried out by the borrowers; 
-- ensuring that first or second ranking mortgages are registered over the development 
+- ensuring that first mortgages are registered over the development 
 - ensuring that the general security agreement granted over all assets and undertakings of the borrower is provided. 
 The risk level varies depending on the type and stage of the development project. However, a sound development project of which the developer has in-depth property development experiences, is well capitalised, has strong cash flow disciplines, has accurate asset value in light of the prevailing market condition with a potential of growth or development would usually pass our tests.   
 Please refer to the IM for further information on the risks associated with investing in the Fund.
